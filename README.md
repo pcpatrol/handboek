@@ -61,6 +61,12 @@ Bekijk ook de uitgebreide [uitleg van onze kernwaarden](Kernwaarden.md).
 
 ## Geschiedenis van PC Patrol<a name="geschiedenis"></a>
 
+PC Patrol vond zijn bescheiden begin in januari 2010, toen Chris van der Scheer besloot om zijn passie voor technologie om te zetten in een bedrijf. Met niet veel meer dan een werkbank en een stapel computers begon hij zijn onderneming vanuit zijn garage. Zijn visie was eenvoudig maar ambitieus: hij wilde mensen helpen met hun computerproblemen en hen voorzien van betrouwbare technische ondersteuning.
+
+Door de jaren heen groeide PC Patrol gestaag. Chris' toewijding aan kwaliteit en klantenservice zorgde voor een gestage stroom van tevreden klanten, wat leidde tot mond-tot-mondreclame en verdere groei van het bedrijf. Met de tijd breidde PC Patrol zijn diensten uit en begon het zich ook te richten op webhosting.
+
+Vandaag de dag is PC Patrol uitgegroeid tot een gerenommeerd hostingbedrijf, dat een breed scala aan diensten aanbiedt aan zowel particulieren als bedrijven. Wat ooit begon als een eenmanszaak in een garage, is nu een stabiele speler in de wereld van webhosting, waar klanten kunnen rekenen op betrouwbaarheid, innovatie en uitstekende klantenservice.
+
 ## Inspiratie handboeken
 Dit zijn andere gave handboeken waar we inspiratie uit gehaald hebben:
 
