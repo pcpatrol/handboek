@@ -12,13 +12,6 @@ Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op al
 - [Missie en visie](#missie-en-visie)
 - [Kernwaarden](#kernwaarden)
 - [Principes](#principes)
-- [Je eerste dag](#eerste-dag)
-- [Elke dag](#elke-dag)
-- [1 op 1's](#een-op-een)
-- [Tools](#tools)
-- [Lunch & Koffie](#lunch)
-- [Verlof en ziekte](#verlof)
-- [Nevenactiviteiten](#nevenactiviteiten)
 - [Veiligheid & Privacy](#privacy)
 - [Geschiedenis](#geschiedenis)
 
@@ -60,3 +53,19 @@ Bekijk ook de uitgebreide [uitleg van onze kernwaarden](Kernwaarden.md).
 - Slechte behandeling hoeft niet te worden getolereerd, zelfs niet van een klant of belangrijke leverancier.
 - Wees op je hoede voor mensen met slechte bedoelingen, zoals degenen die zich voordoen als iemand anders of die proberen fysieke of digitale goederen te stelen. Bij twijfel: direct ingrijpen. Het is beter om achteraf excuses aan te bieden als het onterecht blijkt, dan om het ongemoeid te laten.
 
+## Veiligheid en privacy<a name="privacy"></a>
+
+### Respecteer privacy
+
+### Klantgegevens
+
+## Geschiedenis van PC Patrol<a name="geschiedenis"></a>
+
+## Inspiratie handboeken
+Dit zijn andere gave handboeken waar we inspiratie uit gehaald hebben:
+
+- [Voys](https://www.voys.nl/weblog/het-voys-handboek)
+- [Valve](http://www.theverge.com/2012/4/21/2964991/valves-handbook-for-new-employees-leak)
+- [GitLab](https://about.gitlab.com/handbook/)
+- [Basecamp](https://github.com/basecamp/handbook)
+- [Bakken & Baeck](https://handbook.bakkenbaeck.com/)
