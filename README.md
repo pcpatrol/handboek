@@ -23,3 +23,9 @@ Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op al
 - [Geschiedenis](#geschiedenis)
 
 ## Missie en visie
+
+### Missie
+Het is onze missie om evoor te zorgen dat elke klant een stabiele online omgeving krijgt die hij of zij nodig heeft. Of het nu een blog, webwinkel of grote webapplicatie betreft. 
+
+### Visie
+We vinden het geweldig om voor onze klanten beschikbaar te zijn en hen op hun eigen manier te begeleiden op de digitale snelweg. Of dit nu via telefoon, e-mail, live chat of Slack is, bij PC Patrol staan we klaar voor onze klanten op de manier die zij het prettigst vinden. Dit betekent dat onze klanten niet dagenlang hoeven te wachten op antwoord; we communiceren met hen en voelen ons echt betrokken bij hun omgeving en organisatie. Het belangrijkste is dat zij kunnen werken met een stabiele omgeving op de manier die voor de klant prettig is.
