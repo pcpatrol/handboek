@@ -57,7 +57,17 @@ Bekijk ook de uitgebreide [uitleg van onze kernwaarden](Kernwaarden.md).
 
 ### Respecteer privacy
 
+We hechten veel waarde aan de privacy van onze klanten en die van hun klanten. Het is bijvoorbeeld niet gepast om namen van klanten door te geven aan leveranciers of potentiële klanten zonder voorafgaand overleg met de betreffende klant.
+
+Het begrip 'privacy' omvat een breed scala aan informatie. Dit kan alles zijn wat betrekking heeft op een klant of individu, of wat anderen als 'interessant' zouden kunnen beschouwen. Dit kan bijvoorbeeld gaan over de producten die een klant verkoopt, met welke partners ze samenwerken, welke software ze gebruiken, hun locatie, hoe lang ze al klant zijn bij ons, enzovoort. Zelfs als deze informatie vrij beschikbaar is op internet, is het niet aan ons om deze informatie te delen.
+
+Bij twijfel is het altijd verstandig om eerst met collega's te overleggen of bepaalde informatie als gevoelig moet worden beschouwd.
+
 ### Klantgegevens
+
+In bepaalde functies heb je (beperkte) toegang tot klantgegevens, zoals het bekijken van producten en bestellingen die in PC Patrol zijn geregistreerd. Deze toegang is bedoeld om klanten zo efficiënt en effectief mogelijk te helpen. Het is echter absoluut onaanvaardbaar om deze gegevens te bekijken of te gebruiken voor andere doeleinden dan het assisteren van de klant, zelfs als het alleen uit eigen interesse is.
+
+Als je merkt dat je de verleiding niet kunt weerstaan om deze gegevens voor andere doeleinden te gebruiken, zullen wij passende maatregelen nemen, waaronder mogelijk ontslag of het indienen van een aangifte. We willen benadrukken hoe serieus we deze kwestie nemen en vertrouwen erop dat iedereen zich aan deze richtlijnen zal houden.
 
 ## Geschiedenis van PC Patrol<a name="geschiedenis"></a>
 
